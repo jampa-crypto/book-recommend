@@ -54,3 +54,9 @@ h5{
  .background_blue{background-color: #85C1E6;}
 
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* สีพื้นหลัง */
+    background-size: 100% 100%;
+    border-radius: 50%; /* เลือกได้ว่าจะให้มนหรือไม่ */
+}
