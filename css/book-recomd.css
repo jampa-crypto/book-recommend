@@ -1,0 +1,56 @@
+.color-blue{color:#2421d3;
+}
+
+   .light-blue-background {
+      background-color: #ADD8E6; /* สีฟ้าอ่อน */
+      height: 100vh; /* เต็มหน้าจอ */
+      margin: 0;
+    }
+
+    
+.playpen-sans-thai{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+
+
+p{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+ h3{
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #2C475D !important;
+  background-color: #F8F4EB;
+}
+
+
+
+h5{
+  font-family: "Playpen Sans Thai", cursive;
+  font-weight: weight;
+  font-style: normal;
+ color: #59829F !important; /* Use !important to ensure this rule is applied */
+  background-color: #F8F4EB;
+}
+
+
+.background{background-color: #F8F4EB;}
+
+
+  .text-shadow {
+      font-size: 40px;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);}
+
+ .background_blue{background-color: #85C1E6;}
+
+
